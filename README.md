@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+![Screenshot 2024-05-17 163404](https://github.com/asif-gamer/Gamers.project/assets/167057043/8c58fdb9-95d9-4426-90c0-789c4f9f0a78)
+![Screenshot 2024-05-17 163423](https://github.com/asif-gamer/Gamers.project/assets/167057043/598f2556-db79-424b-97af-2af9f3b14a68)
 
 ![Screenshot 2024-05-17 011748](https://github.com/asif-gamer/Gamers.project/assets/167057043/5c2bfc3d-a541-4a6a-a656-bd4ab89940cc)
 ![Screenshot 2024-05-17 011716](https://github.com/asif-gamer/Gamers.project/assets/167057043/163b5f0d-3d04-4289-a00d-f3bc025b17f2)
