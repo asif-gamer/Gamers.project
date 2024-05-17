@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Times+New+Roman:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Inter", sans-serif;
+  @apply leading-[normal] m-0;
+  background-image: url("./assets/bg.png");
+  background-size: cover;
+}
+*,
+::before,
+::after {
+  border-width: 0;
+}
+
+
+/* CSS */
+.shadow-glow {
+  animation: glow 1.5s infinite alternate;
+}
+
+@keyframes glow {
+  0% {
+      box-shadow: 0 0 10px #2E9BFA;
+  }
+  100% {
+      box-shadow: 0 0 20px #2E9BFA;
+  }
+}
